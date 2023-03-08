@@ -1,0 +1,21 @@
+.movielist{
+    margin: 5%;
+    display: flex ;
+    flex-wrap: wrap;
+    justify-content: space-around ;
+   margin-top: 100px;
+    
+    
+}
+
+#searchInput{
+    width: 100% !important;
+    display: flex;
+    margin-top: 100px;
+    justify-content: flex-end;
+}
+#searchNav {
+    display: flex;
+    width: 60% !important;
+    vertical-align: middle;
+}

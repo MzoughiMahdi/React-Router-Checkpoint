@@ -1,0 +1,14 @@
+.movieCard{
+    margin:5%;
+    padding:2%;
+    color:rgba(160, 159, 159, 0.829);
+    }
+    .movieCard:hover {
+        box-shadow: 2px 2px 10px rgb(239, 225, 225), -2px -2px 10px rgb(239, 225, 225),
+          2px 2px 10px  rgb(239, 225, 225) -2px -2px 10px rgb(239, 225, 225);
+          cursor: pointer;
+      }
+      .cardBtn{
+          display: flex;
+          justify-content: space-between;
+      }

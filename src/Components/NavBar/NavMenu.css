@@ -1,0 +1,15 @@
+
+
+#Addbtn{
+    margin-left: 50px;
+}
+.navMenu{
+    background-color: rgb(140, 229, 140);
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 5;
+    margin-bottom: 50px;
+    border-radius: 30px;
+    
+}
